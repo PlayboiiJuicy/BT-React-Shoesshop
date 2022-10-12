@@ -82,6 +82,7 @@ class ShoesStore extends Component {
       backgroundColor: "black",
       color: "white",
       borderRadius: "10px",
+      zIndex: "333",
     };
     return (
       <div>
